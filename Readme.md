@@ -1,4 +1,4 @@
-# SPAD-FCS
+# SPAD-FFS
 
 Pyhon code for the analysis of confocal laser-scanning microscopy based fluorescence fluctuation spectroscopy (FFS) data. The code is designed to analyze FFS data obtained with a 5x5 pixel SPAD array detector, instead of the typical point-detector. Includes code for:
 
