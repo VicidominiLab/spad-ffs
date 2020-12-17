@@ -1,6 +1,4 @@
 # SPAD-FCS
-An example of a raw data file can be found [![here](https://zenodo.org/record/4161418)](https://zenodo.org/record/4161418)
-
 
 Pyhon code for the analysis of SPAD array detector based fluorescence fluctuation spectroscopy data. Includes code for:
 
@@ -10,4 +8,4 @@ Pyhon code for the analysis of SPAD array detector based fluorescence fluctuatio
 
 ## How do I use it?
 
-Under Examples, a Jupyter notebook is available with an example. The data set used for this example is available on Zenodo.
+Under Examples, a Jupyter notebook is available with an example. The raw data set used for this example is available on [![Zenodo](https://zenodo.org/record/4161418)](https://zenodo.org/record/4161418).
