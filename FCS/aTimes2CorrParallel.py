@@ -5,10 +5,10 @@ from FCS2Corr import correlations
 import numpy as np
 from extractSpadPhotonStreams import extractSpadPhotonStreams
 
-def aTimes2CorrsTest(data, listOfCorr, accuracy=50, taumax="auto", performCoarsening=True, split=10):
+def aTimes2CorrsParallel(data, listOfCorr, accuracy=50, taumax="auto", performCoarsening=True, split=10):
     """
     Calculate correlations between several photon streams with arrival times
-    stored in macrotimes
+    stored in macrotimes, using parallel computing to speed up the process
     ==========  ===============================================================
     Input       Meaning
     ----------  ---------------------------------------------------------------
